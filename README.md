@@ -30,7 +30,7 @@ My interests range over many areas, including Statistics, Machine Learning, Comp
  
 ## 🧠 **About me**
 
-- 🎞️ Favourite sitcom: _The Big Bang Theory_
+- 🎞️ Favourite TV series: _The Big Bang Theory_
 - 🏊‍♂️ I swim regularly to stay in shape
 - 🌍 I love travelling around the world 💚
 

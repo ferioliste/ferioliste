@@ -29,6 +29,7 @@ My interests range over many areas, including Statistics, Machine Learning, Comp
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg' height='28'>  &nbsp 
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' height='28'> &nbsp
 		<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' height='28'>  &nbsp 
+	<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg' height='28'>  &nbsp 
 </ul>
  
 ## 🧠 **About me**

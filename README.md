@@ -33,7 +33,7 @@ The tensor train format (TT-format) allows the representation of a tensor throug
 [Link to the project repository](https://github.com/ferioliste/TensorTrainApproximation) | [Link to the project report](https://docs.google.com/gview?url=https://raw.githubusercontent.com/ferioliste/TensorTrainApproximation/main/Stefano_FERIOLI_semester_project.pdf)
 
 **NUFFT-II Implementation** - *Spring 2024* \
-description \
+Computing the non-uniform discrete Fourier transforms can be very expensive with naive methods. This repository provides an efficient implementation using Chebyshev and Taylor-based low-rank approximations to speed up the computation while maintaining accuracy. \
 [Link to the project repository](https://github.com/ferioliste/non-uniform-FFT)
 
 **Label Propagation via Diffusion on a Graph** - *Fall 2023* \

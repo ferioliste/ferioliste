@@ -4,7 +4,7 @@ I am Stefano Ferioli and I am currently pursuing a Master in Applied Mathematics
 
 I completed my Bachelor's degree in Mathematical Engineering at Politecnico di Milano.
 
-Below are some of the projects I have worked on during my academic journey and on my own time, covering topics in numerical analysis, machine learning, finance, and algorithmic optimization.
+Below are some of the projects I have worked on during my academic journey and on my own time, covering topics in numerical analysis, machine learning, finance, and algorithmic optimization.<br><br>
 
 ## My best projects
 
@@ -22,7 +22,7 @@ The Mountain Car problem is a classic example in the field of reinforcement lear
 
 **Randomized algorithms for tensor train approximation** - *Spring 2024* \
 The tensor train format (TT-format) allows the representation of a tensor through the contraction of several three-dimensional tensors called TT-cores. This project explores how randomization can be used to achieve performance improvements in TT-factorization and TT-rounding algorithms. \
-📁 [Link to the project repository](https://github.com/ferioliste/TensorTrainApproximation) | 📄 [Link to the project report](https://docs.google.com/gview?url=https://raw.githubusercontent.com/ferioliste/TensorTrainApproximation/main/Stefano_FERIOLI_semester_project.pdf)
+📁 [Link to the project repository](https://github.com/ferioliste/TensorTrainApproximation) | 📄 [Link to the project report](https://docs.google.com/gview?url=https://raw.githubusercontent.com/ferioliste/TensorTrainApproximation/main/Stefano_FERIOLI_semester_project.pdf)<br><br>
 
 ## Other projects
 

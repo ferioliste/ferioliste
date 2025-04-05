@@ -9,7 +9,7 @@ Below are most of the projects I have worked on during my academic journey, cove
 ## My projects
 
 **Sensitivities in Finance** - *Fall 2024* \
-description \
+The Greeks in finance measure how option prices react to market factors, like price, volatility, and interest rate. This project explores three Monte Carlo approaches to compute Delta, Vega, and Gamma under the Black–Scholes model. \
 [Link to the project repository](https://github.com/ferioliste/sensitivities-in-finance) | [Link to the project report](https://docs.google.com/gview?url=https://raw.githubusercontent.com/ferioliste/sensitivities-in-finance/main/Report_Ferioli_Arrighetti_Fioratti.pdf)
 
 **The recipe for a successful movie** - *Fall 2024* \
@@ -25,11 +25,11 @@ The Game of Life is a cellular automaton devised by mathematician John Conway, w
 [Link to the project repository](https://github.com/ferioliste/game-of-life)
 
 **Dealing with sparse rewards in the Mountain Car environment** - *Spring 2024* \
-description \
+The Mountain Car problem is a classic example in the field of reinforcement learning where the goal is to drive an underpowered car up a steep hill. An agent must learn to leverage potential energy of the car by oscillating back and forth to build enough momentum to reach the top of the hill on the right. This project explores different solutions using Deep Q-Network (DQN) and Dyna agents, combining model-free and model-based approaches. \
 [Link to the project repository](https://github.com/ferioliste/MountainCar-RL) | [Link to the project report](https://docs.google.com/gview?url=https://raw.githubusercontent.com/ferioliste/MountainCar-RL/main/report_MountainCar_PaoloGiaretta_StefanoFerioli.pdf)
 
 **Randomized algorithms for tensor train approximation** - *Spring 2024* \
-description \
+The tensor train format (TT-format) allows the representation of a tensor through the contraction of several three-dimensional tensors called TT-cores. This project explores how randomization can be used to achieve performance improvements in TT-factorization and TT-rounding algorithms. \
 [Link to the project repository](https://github.com/ferioliste/TensorTrainApproximation) | [Link to the project report](https://docs.google.com/gview?url=https://raw.githubusercontent.com/ferioliste/TensorTrainApproximation/main/Stefano_FERIOLI_semester_project.pdf)
 
 **NUFFT-II Implementation** - *Spring 2024* \

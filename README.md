@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I am Stefano Ferioli and I am currently pursuing a Master in Applied Mathematics at École polytechnique fédérale de Lausanne (EPFL), Switzerland, with a minor in Data Science. My interests range over many areas, including statistics, machine learning, linear algebra applications, and quantitative finance.
+I am Stefano Ferioli and I completed a Master in Applied Mathematics at École polytechnique fédérale de Lausanne (EPFL), Switzerland, with a minor in Data Science. My interests range over many areas, including statistics, machine learning, linear algebra applications, and quantitative finance.
 
 I completed my Bachelor's degree in Mathematical Engineering at Politecnico di Milano.
 
